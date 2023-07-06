@@ -48,7 +48,7 @@ function stop(){
 }
 function change(){
 	curr++;
-	if(curr==3){
+	if(curr==4){
 		curr=0;
 	}
 	show();
